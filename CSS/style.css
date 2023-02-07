@@ -1,0 +1,17 @@
+
+@charset "utf-8";
+
+.msg{
+    color:rgb(255, 255, 255);
+    font-size: large;
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    padding: 20px;
+    direction: rtl;
+}
+
+.mb {
+    background-color: #2bd0a2;
+    color: white;
+    font-weight: bold;
+}
